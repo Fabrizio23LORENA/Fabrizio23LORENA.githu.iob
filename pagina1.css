@@ -1,0 +1,71 @@
+body{
+
+background-image: url(af073d63-c466-4f4d-b6d0-729a9eda6cb6.jpg);
+background-size: cover;
+
+}
+
+
+img{
+
+padding-top: 25px;
+width: 250px;
+padding-left: 410px;
+}
+
+.contenedor{
+
+text-align: center;
+padding: -100%;
+font-size: xx-large;
+font-size: 22px;
+font-family: Arial, Helvetica, sans-serif;
+color: rgb(236, 234, 230);
+
+}
+
+a{
+
+    font-size: xx-large;
+    padding: 25px 30px;
+    transform: translate(-100%,0);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 150px 450px;
+    background-color: rgba(248, 72, 116, 0.89);
+    color: black;
+    text-decoration: none;
+    border: 2px solid black;
+    border-radius: 10px;
+padding: 0.50em;
+margin: 130px;
+
+    }
+    
+    a:hover{
+    
+    background-color: rgb(143, 60, 136);
+    border: 2px solid rgba(168, 182, 219, 0.753);
+    color: rgb(2, 2, 2);
+    }
+
+    #Yesbtn{
+        padding-left: 20px;
+                color: rgba(7, 7, 7, 0.527);
+        margin: 150px;
+        margin-left: 30%;
+    
+
+    }
+
+    #Nobtn{
+
+    color: rgba(17, 17, 17, 0.527);
+    padding: 20x 15px;
+padding-left: 20px;
+margin: -20px;
+padding: 15px;
+
+    }
+
+
+

@@ -1,0 +1,63 @@
+body{
+background-image: url('/Hearts\ for\ you\ -\ Corazones\ para\ ti\ _\).jpg');
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+*{
+
+margin: 0%;
+
+}
+
+img{
+
+width: 200px;
+margin-left: 450px;
+margin-top: 50px;
+
+
+}
+
+p{
+
+    font-size: xx-large;
+    padding: 15%;
+    font-family: Arial, Helvetica, sans-serif;
+ margin-left: 80px;
+ margin-top: -170px;
+ font-size: 25px;
+text-align: center;
+
+}
+
+.contenedor{
+
+text-align: center;
+}
+
+a{
+
+    font-size: xx-large;
+    padding: 25px 30px;
+    transform: translate(-100%,0);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 150px 450px;
+    background-color: rgb(84, 190, 223);
+    color: black;
+    text-decoration: none;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-top: 200px;
+
+
+    }
+    
+    a:hover{
+    
+    background-color: transparent;
+    border: 2px solid rgba(96, 136, 243, 0.753);
+    color: rgb(2, 2, 2);
+    }
+
